@@ -1,0 +1,6 @@
+Question: Who is the owner of this project?
+Answer: The owner of the project is Himanshu Kumar.
+
+Question: What technology does this project use?
+Answer: This project uses Python, LangChain, and Google Colab.
+
